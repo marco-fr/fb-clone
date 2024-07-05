@@ -1,0 +1,6 @@
+/uploads
+/migrations
+/instance
+/__pycache__
+.env
+/venv
